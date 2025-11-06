@@ -1,0 +1,43 @@
+
+[
+  {
+    "title": "New York",
+    "estado": "Excelente",
+    "descripcion": "Punto de recarga en el corazón de la ciudad.",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "es_publico": true
+  },
+  {
+    "title": "Los Angeles",
+    "estado": "Bueno",
+    "descripcion": "Estación de recarga concurrida, puede haber esperas.",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "es_publico": true
+  },
+  {
+    "title": "Chicago",
+    "estado": "Decente",
+    "descripcion": "Punto de recarga en zona residencial.",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "es_publico": false
+  },
+  {
+    "title": "Houston",
+    "estado": "Bueno",
+    "descripcion": "Varios puntos de recarga disponibles.",
+    "latitude": 29.7604,
+    "longitude": -95.3698,
+    "es_publico": true
+  },
+  {
+    "title": "Philadelphia",
+    "estado": "Inutilizable",
+    "descripcion": "Punto de recarga fuera de servicio temporalmente.",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "es_publico": false
+  }
+]

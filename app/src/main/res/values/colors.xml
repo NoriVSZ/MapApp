@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Tus colores existentes... -->
+    <color name="status_excelente">#4CAF50</color> <!-- Verde -->
+    <color name="status_bueno">#FFEB3B</color>     <!-- Amarillo -->
+    <color name="status_decente">#FF9800</color>   <!-- Naranja -->
+    <color name="status_deplorable">#F44336</color> <!-- Rojo -->
 </resources>

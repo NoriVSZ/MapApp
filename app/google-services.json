@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "623599556193",
+    "project_id": "puntowc",
+    "storage_bucket": "puntowc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623599556193:android:d6e9e9a296c6e327b4fc20",
+        "android_client_info": {
+          "package_name": "com.example.appmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623599556193-47hl5sf3if403dlt5ubqvbo0ej0c543s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appmap",
+            "certificate_hash": "7e5a3c36b31fbbf40c73568ee7f93cb89847a1f7"
+          }
+        },
+        {
+          "client_id": "623599556193-ip1opb9p3b25qp75rd8l619dacjh5voq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEkAEu-IeKKVjRFOp2SDSQFgFC0CeUwKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623599556193-ip1opb9p3b25qp75rd8l619dacjh5voq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

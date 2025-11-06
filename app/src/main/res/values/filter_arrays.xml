@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="distance_filter_array">
+        <item>Mundial</item>
+        <item>Por Zona (4km)</item>
+    </string-array>
+    <string-array name="status_filter_array">
+        <item>Todos</item>
+        <item>Excelente</item>
+        <item>Bueno</item>
+        <item>Decente</item>
+        <item>Inutilizable</item>
+    </string-array>
+</resources>

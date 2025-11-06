@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status_array">
+        <item>Excelente</item>
+        <item>Bueno</item>
+        <item>Decente</item>
+        <item>Inutilizable</item>
+    </string-array>
+</resources>
